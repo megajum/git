@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/git/wp-content/plugins/xml-sitemap-feed/assets/sitemap-posttype.xsl?ver=5.3.4"?>
+<!-- generated-on="2023-06-05T07:17:35+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.3.4" -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+		http://www.google.com/schemas/sitemap-image/1.1
+		http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+	<url>
+		<loc>https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/</loc>
+		<priority>0.7</priority>
+		<lastmod>2023-06-05T05:46:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://github.iriss.org.uk/wp-content/uploads/2023/06/sdfsfe.webp</image:loc>
+			<image:title><![CDATA[sdfsfe]]></image:title>
+		</image:image>
+ 	</url>
+	<url>
+		<loc>https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/</loc>
+		<priority>0.7</priority>
+		<lastmod>2023-06-05T05:44:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://github.iriss.org.uk/wp-content/uploads/2023/06/cccccc.jpg</image:loc>
+			<image:title><![CDATA[cccccc]]></image:title>
+		</image:image>
+ 	</url>
+	<url>
+		<loc>https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/</loc>
+		<priority>0.7</priority>
+		<lastmod>2023-06-05T05:44:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://github.iriss.org.uk/wp-content/uploads/2023/06/aaaaaaaaaa.jpg</image:loc>
+			<image:title><![CDATA[aaaaaaaaaa]]></image:title>
+		</image:image>
+ 	</url>
+	<url>
+		<loc>https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/</loc>
+		<priority>0.7</priority>
+		<lastmod>2023-06-05T05:43:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://github.iriss.org.uk/wp-content/uploads/2023/06/adfdgdg.jpg</image:loc>
+			<image:title><![CDATA[adfdgdg]]></image:title>
+		</image:image>
+ 	</url>
+</urlset>

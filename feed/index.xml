@@ -4,35 +4,77 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/" > 
 
-<channel>
-	<title>Boxoffice News Updates And More</title>
-	<atom:link href="https://github.iriss.org.uk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.iriss.org.uk/</link>
-	<description></description>
-	<lastBuildDate>Mon, 05 Jun 2023 05:46:04 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
-	<item>
-		<title>Martin Scorsese announces film on Jesus after meeting Pope Francis in Vatican</title>
-		<link>https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/</link>
-					<comments>https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Mon, 05 Jun 2023 05:46:04 +0000</pubDate>
-				<category><![CDATA[Hollywood]]></category>
-		<guid isPermaLink="false">https://github.iriss.org.uk/?p=20</guid>
+	<channel>
+		<title>Github Boxoffice News Updates And More</title>
+		<atom:link href="http://localhost/git/feed/gn" rel="self" type="application/rss+xml" />
+		<link>http://localhost/git</link>
+		<description></description>
+		<lastBuildDate>Sat, 10 Jun 2023 04:56:07 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod> hourly </sy:updatePeriod>
+		<sy:updateFrequency> 1 </sy:updateFrequency>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+		<generator>GN Publisher v1.5.8 https://wordpress.org/plugins/gn-publisher/</generator>
 
-					<description><![CDATA[<p>Veteran director Martin Scorsese met The Pope in Vatican City on May 27. Just a day later, on May 28,&#8230;</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/">Martin Scorsese announces film on Jesus after meeting Pope Francis in Vatican</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Veteran director Martin Scorsese met The Pope in Vatican City on May 27. Just a day later, on May 28, he announced that he wanted to make a film focusing on Jesus Christ. The director is currently touring Italy.</p>
+		<item>
+			<title>The Kerala Story director Sudipto Sen to helm film backed by Swantantra Veer Savarkar producer Sandeep Singh</title>
+			<link>http://localhost/git/the-kerala-story-director-sudipto-sen-to-helm-film-backed-by-swantantra-veer-savarkar-producer-sandeep-singh/</link>
+			<pubDate>Sat, 10 Jun 2023 04:56:07 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=44</guid>
+			<description><![CDATA[Director Sudipto Sen, known for his work on The Kerala Story, is set to collaborate with producer...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/Sudipto_Sen_Sandeep_Singh.jpeg" class="type:primaryImage" /></figure><p>Director Sudipto Sen, known for his work on <i>The Kerala Story,</i> is set to collaborate with producer Sandeep Singh on an upcoming film. Sandeep Singh, who has previously produced films such as <i>Swantantra Veer Savarkar </i>and <i>Main Atal Hoon</i>, is joining forces with Sen to bring a new project to the silver screen. Meanwhile, further details about the film are yet to be revealed.</p>
+<p>Speaking of <i>The Kerala Story</i>, directed by Sudipto Sen and starring Adah Sharma in the lead role, made its release on May 5. The film managed to hold its ground at the box office.  Meanwhile, Sandeep Singh&#8217;s upcoming film <i>Savarkar</i>, directed by Randeep Hooda, recently unveiled its teaser, generating significant buzz among audiences. The film revolves around the life of Swatantrya Veer Savarkar, an influential freedom fighter and visionary.</p>
+<p>Additionally, <i>Main Atal Hoon</i>, another production by Sandeep Singh, has already entered its second schedule of filming in Lucknow. This biopic, headlined by the versatile Pankaj Tripathi, pays tribute to the late politician Atal Bihari Vajpayee, who served as India&#8217;s Prime Minister three times. The film aims to shed light on the remarkable journey and contributions of Atal Bihari Vajpayee, resonating with audiences who admire his leadership.</p>
+<p>As the collaboration between Sudipto Sen and Sandeep Singh for their forthcoming film takes shape, movie enthusiasts eagerly await further updates and announcements regarding the project.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/the-kerala-story-director-sudipto-sen-to-helm-film-backed-by-swantantra-veer-savarkar-producer-sandeep-singh/">The Kerala Story director Sudipto Sen to helm film backed by Swantantra Veer Savarkar producer Sandeep Singh</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
+]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Zara Hatke Zara Bachke box office collection Day 4: Sara Ali Khan, Vicky Kaushal’s rom-com witnesses a slight drop; earns Rs 4.41 crore</title>
+			<link>http://localhost/git/zara-hatke-zara-bachke-box-office-collection-day-4-sara-ali-khan-vicky-kaushals-rom-com-witnesses-a-slight-drop-earns-rs-4-41-crore/</link>
+			<pubDate>Thu, 08 Jun 2023 16:50:06 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=36</guid>
+			<description><![CDATA[After a good start at the box-office, Sara Ali Khan and Vicky Kaushal‘s romantic comedy...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/Sara-Ali-Khan-Vicky-Kaushal-Zara-Hatke-Zara-Bachke-2.jpg" class="type:primaryImage" /></figure><p>After a good start at the box-office, Sara Ali Khan and Vicky Kaushal‘s romantic comedy Zara Hatke Zara Bachke has witnessed a slight drop on its first Monday. The film, which opened to mixed reviews from critics, earned around Rs 4.41 crore on Monday, taking its total earnings to Rs 26.73 crore.</p>
+<p>Sharing the latest box office figures, film trade analyst Taran Adarsh wrote on Twitter, “#ZaraHatkeZaraBachke keeps its investors smiling on the crucial Day 4 [Mon]… The strong grip on a working day – after the weekend – indicates the wholehearted acceptance for the film… Fri 5.49 cr, Sat 7.20 cr, Sun 9.90 cr, Mon 4.14 cr. Total: ₹ 26.73 cr. #India biz.”</p>
+<p>He added, “ Mass pockets / single screens are super-strong… National chains are rock-steady too [weekday rates]. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44d-1f3fb.png" alt="👍🏻" class="wp-smiley"  /> Decline on Mon [vis-à-vis Fri] is mere 24.59%, which is excellent.”</p>
+<p>Zara Hatke Zara Bachke, which was said to have profited from its unique ticket-selling strategy of one plus one free, valid until Sunday, performed decently at the box-office on Monday without any sales aid.</p>
+<p>Directed by Laxman Utekar, Zara Hatke Zara Bachke, set in a small town in India, revolves around a married couple trying to get a fake divorce. The film marked Vicky Kaushal and Sara Ali Khan’s first film together and fans can’t have enough of their cute chemistry. It has been able to hold strong despite competition from The Kerala Story and Spider-Man: Across The Spider-Verse.</p>
+<p>In her review of the film, Indian Express’ Shubhra Gupta stated that the film has the potential to relate to the Indian middle class because of its central theme. She wrote, “Zara Hatke Zara Bachke’s central conflict is one that makes it instantly relatable to millions of middle-class Indians. When it comes right down to it, young Indore-based couple Kapil (Vicky Kaushal) and Soumya (Sara Ali Khan) have some tough calls to take: will they be able to go through with it?”</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/zara-hatke-zara-bachke-box-office-collection-day-4-sara-ali-khan-vicky-kaushals-rom-com-witnesses-a-slight-drop-earns-rs-4-41-crore/">Zara Hatke Zara Bachke box office collection Day 4: Sara Ali Khan, Vicky Kaushal’s rom-com witnesses a slight drop; earns Rs 4.41 crore</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
+]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Fast X Domestic Box Office Is Close to a Disaster For the Franchise</title>
+			<link>http://localhost/git/fast-x-domestic-box-office-is-close-to-a-disaster-for-the-franchise/</link>
+			<pubDate>Thu, 08 Jun 2023 16:47:57 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=33</guid>
+			<description><![CDATA[Vin Diesel has already revealed that plans are moving ahead to split the original double-ending...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/vin-diesel-fast-x-trailer-6440e299d1070.jpg" class="type:primaryImage" /></figure><p>Vin Diesel has already revealed that plans are moving ahead to split the original double-ending of the Fast and Furious franchise into a trio of movies, but whether that will still happen is yet to be seen. Fast X has certainly pulled in a decent box office result in principle, but that doesn’t mean it has been pedal to the metal all the way for the high-octane series as it has struggled to gain traction on the domestic front.</p>
+<p>Internationally, Fast X has delivered with its current box office standing at just under $480 million, but when it comes to its domestic haul it has been much less than expected, especially considering the budget and hype around it. The film has taken $129 million in the U.S. but is now seeing its earning potential fade away very quickly compared to other movies in the franchise. That means that it is unlikely Fast X will surpass F9, which ended its run on around $175 million domestically and $700 worldwide. Considering that movie landed when the Covid pandemic was still causing cinemas major issues, and the huge reported budget of $350 million, Fast X has been very close to disastrous financially.</p>
+<p>However, the film has not been a complete bomb and will pick up plenty additional profit from its physical and digital home releases, but it does provide something of a cautionary tale when it comes to <em>Fast 11</em>’s spending and the potential release of<em> Fast 12</em>, which could begin to see interest in the franchise waning again.</p>
+<p>Like many Marvel Studio movies, Fast X did most of its damage in the opening weekend, immediately seeing a 67% drop in its second week and similar drops subsequently. While there is no end of star power in the movie, as well as Mission: Impossible level stunts, major character deaths and a cliffhanger ending, the film’s biggest problem is that after ten movies there is just not much more that it can actually give that hasn’t been seen before – even it this time around it is all a little more elaborate.</p>
+<p>Jason Momoa’s appearance has proven to be one of the most talked about aspects of the movie, but that alone cannot deliver a $1 billion box office success. Although Fast X also pulled out some big character returns in an appearance by Gal Gadot and the return of Dwayne Johnson’s Hobbs in the final moments, as Black Adam proved, a big post credits cameo doesn’t necessarily drive audiences into theaters. In addition to this, the movie has arrived in one of the busiest years the box office has seen in several years, which has forced some people to choose carefully which movies to spend their money on.</p>
+<p>Regardless, Fast 11 is coming and there is nothing going to stop that, but it seems likely that Universal will be looking to keep a closer eye on the budget of the film, as if the movie sees any kind of drop in revenue from Fast X, then the franchise’s finale could end up hitting a dead end rather than an open highway.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/fast-x-domestic-box-office-is-close-to-a-disaster-for-the-franchise/">Fast X Domestic Box Office Is Close to a Disaster For the Franchise</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
+]]></content:encoded>
+		</item>
+
+		<item>
+			<title>Martin Scorsese announces film on Jesus after meeting Pope Francis in Vatican</title>
+			<link>http://localhost/git/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/</link>
+			<pubDate>Mon, 05 Jun 2023 05:46:04 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=20</guid>
+			<description><![CDATA[Veteran director Martin Scorsese met The Pope in Vatican City on May 27. Just a...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/sdfsfe.webp" class="type:primaryImage" /></figure><p>Veteran director Martin Scorsese met The Pope in Vatican City on May 27. Just a day later, on May 28, he announced that he wanted to make a film focusing on Jesus Christ. The director is currently touring Italy.</p>
 <p>Veteran director Martin Scorsese, who is known to be religious, recently met The Pope in Vatican City. He and his wife, Helen Morris, had a brief meeting with Pope Francis on May 27 and just a day later, the director announced that he would be making a film on Jesus Christ.</p>
 <p>MARTIN SCORSESE TO MAKE A FILM ON JESUS CHRIST<br />
 Martin Scorsese, who is known for films like Goodfellas, Shutter Island, The Wolf of Wall Street and The Irishman, has announced that he will be directing a film on Jesus. This announcement came just a day after he met the Pope in Vatican City. The director is currently touring Italy post his appearance in the Cannes Film Festival.</p>
@@ -41,93 +83,59 @@ Martin Scorsese, who is known for films like Goodfellas, Shutter Island, The Wol
 <p>On Saturday, May 27, Scorsese and his wife Helen Morris had a brief meeting with Pope Francis at the Vatican before attending the conference, which was headlined The Global Aesthetics of the Catholic Imagination. It was organized by Georgetown University. The editor of the religious magazine La Civilta Cattolica, Antonio Spadaro, stated on the website of the publication that during their talk at the conference, Scorsese alternated between references to his films and personal tales and revealed how the Holy Father’s appeal to let us see Jesus moved him among other things.</p>
 <p>ABOUT MARTIN SCORCESE<br />
 Martin Scorsese is a legendary American filmmaker who has helmed films like The Wolf of Wall Street, Shutter Island, The Last Temptation of Christ and many other classic films. He has served as an essential figure of the New Hollywood Era. His last work, Killers of The Red Moon, was screened at Cannes. It is scheduled to be released in select theaters on October 6, before a wide release in the United States on October 20, by Paramount Pictures. It is also set for an unspecified streaming release on Apple TV+</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/">Martin Scorsese announces film on Jesus after meeting Pope Francis in Vatican</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/">Martin Scorsese announces film on Jesus after meeting Pope Francis in Vatican</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>https://github.iriss.org.uk/martin-scorsese-announces-film-on-jesus-after-meeting-pope-francis-in-vatican/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Little Mermaid Movie Review: Disney’s live-action adaptation soars, thanks to Halle Bailey</title>
-		<link>https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/</link>
-					<comments>https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Mon, 05 Jun 2023 05:44:40 +0000</pubDate>
-				<category><![CDATA[Hollywood]]></category>
-		<guid isPermaLink="false">https://github.iriss.org.uk/?p=17</guid>
+		</item>
 
-					<description><![CDATA[<p>Directed by Rob Marshall, The Little Mermaid released in cinemas on May 26, 2023. Here’s our review of the film.&#8230;</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/">The Little Mermaid Movie Review: Disney’s live-action adaptation soars, thanks to Halle Bailey</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Directed by Rob Marshall, The Little Mermaid released in cinemas on May 26, 2023. Here’s our review of the film.</p>
+		<item>
+			<title>The Little Mermaid Movie Review: Disney’s live-action adaptation soars, thanks to Halle Bailey</title>
+			<link>http://localhost/git/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/</link>
+			<pubDate>Mon, 05 Jun 2023 05:44:40 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=17</guid>
+			<description><![CDATA[Directed by Rob Marshall, The Little Mermaid released in cinemas on May 26, 2023. Here’s...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/cccccc.jpg" class="type:primaryImage" /></figure><p>Directed by Rob Marshall, The Little Mermaid released in cinemas on May 26, 2023. Here’s our review of the film.</p>
 <p>By Tushar Joshi: In the movies of all Disney movies, the story of a little girl under the ocean falling in love with a guy who lives above the water is perhaps a tale that’s absolutely special. The Little Mermaid’s 1989 animated version is one of the most underrated Disney movie of all time. The visuals, colours, the songs all just worked together in sync to create a masterpiece. So when Disney announced they are reprising the film as a live-action adaptation, some eyes rolled with a long drawn ‘why?’. Fortunately, when Halle Bailey was announced as the lead face as Ariel, there was some excitement and a sigh of relief.</p>
 <p>In the 2023 live-action version of The Little Mermaid, the makers have gone all out to ensure each and every character has been given ample footage. The VFX used to show Ariel’s tail, the scales on her body glistening as she rises up, the myriad of colours that reflect the sunlight in the ocean, all of these elements are just superb. If you have watched the 1989 version, then certain scenes are almost a mirror image. Melissa McCarthy who’s often cast as a comic character, has been given a makeover as the menacing villain Ursula and have to say she sadly falls short of the mark in her performance.</p>
 <p>The music is a definite highlight of the film with Halle showing off her vocals as she impeccably hits those high notes. Being a professional singer has definitely helped her give Ariel that extra edge. Where the film falters though is on the emotional connect. The CGI and special effects are visually dazzling, but on paper the screenplay lacks depth.<br />
 The Little Mermaid is a visual treat. The songs are great, the scenes between Ariel and Flounder (Jacob Tremblay), Sebastian (Daveed Diggs) and Scuttle (Awkafina) are top notch. If you love Halle’s music and a good Disney musical, then you are in for an enchanting dive under water.</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/">The Little Mermaid Movie Review: Disney’s live-action adaptation soars, thanks to Halle Bailey</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/">The Little Mermaid Movie Review: Disney’s live-action adaptation soars, thanks to Halle Bailey</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>https://github.iriss.org.uk/the-little-mermaid-movie-review-disneys-live-action-adaptation-soars-thanks-to-halle-bailey/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Jogira Sara Ra Ra box office collection Day 4: Nawazuddin Siddiqui’s film struggles to reach a mere Rs 2 crore</title>
-		<link>https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/</link>
-					<comments>https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Mon, 05 Jun 2023 05:44:03 +0000</pubDate>
-				<category><![CDATA[Bollywood]]></category>
-		<guid isPermaLink="false">https://github.iriss.org.uk/?p=14</guid>
+		</item>
 
-					<description><![CDATA[<p>Nawazuddin Siddiqui and Neha Sharma’s film Jogira Sara Ra Ra is not doing well at the box office. It is&#8230;</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/">Jogira Sara Ra Ra box office collection Day 4: Nawazuddin Siddiqui’s film struggles to reach a mere Rs 2 crore</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Nawazuddin Siddiqui and Neha Sharma’s film Jogira Sara Ra Ra is not doing well at the box office. It is struggling to mint a mere total of Rs 2 crore.</p>
+		<item>
+			<title>Jogira Sara Ra Ra box office collection Day 4: Nawazuddin Siddiqui’s film struggles to reach a mere Rs 2 crore</title>
+			<link>http://localhost/git/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/</link>
+			<pubDate>Mon, 05 Jun 2023 05:44:03 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=14</guid>
+			<description><![CDATA[Nawazuddin Siddiqui and Neha Sharma’s film Jogira Sara Ra Ra is not doing well at...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/aaaaaaaaaa.jpg" class="type:primaryImage" /></figure><p>Nawazuddin Siddiqui and Neha Sharma’s film Jogira Sara Ra Ra is not doing well at the box office. It is struggling to mint a mere total of Rs 2 crore.</p>
 <p>By Grace Cyril: Nawazuddin Siddiqui and Neha Sharma’s latest release Jogira Sara Ra Ra is a huge disaster. The film has proved to be a box office dud. In four days, Jogira Sara Ra Ra failed to even cross Rs 2 crore.</p>
 <p>JOGIRA SARA RA RA BOX OFFICE COLLECTION<br />
 Nawazuddin Siddiqui and Neha Sharma’s Jogira Sara Ra Ra released on May 26 in theatres. The film received mixed reviews from critics. On Day 1, the film minted just Rs 50 lakh, which is very less. On Day 4, May 29, the film reportedly minted just Rs 32 lakh. The total collection now stands at Rs 1.83 crore.</p>
 <p>ABOUT JOGIRA SARA RA RA<br />
 Jogira Sara Ra Ra stars Nawazuddin Siddiqui and Neha Sharma in lead roles. It is produced by Naeem A Siddiqui of Touchwood Multimedia Creations. It has Kiran Shyam Shroff as its creative producer. The film released in theatres on May 26. Directed by Kushan Nandy, the family comedy also stars Sanjay Mishra and Mahaakshay Chakraborty. Kushan and Nawazuddin previously worked together on Babumoshai Bandookbaaz (2020).</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/">Jogira Sara Ra Ra box office collection Day 4: Nawazuddin Siddiqui’s film struggles to reach a mere Rs 2 crore</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/">Jogira Sara Ra Ra box office collection Day 4: Nawazuddin Siddiqui’s film struggles to reach a mere Rs 2 crore</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>https://github.iriss.org.uk/jogira-sara-ra-ra-box-office-collection-day-4-nawazuddin-siddiquis-film-struggles-to-reach-a-mere-rs-2-crore/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Kerala Story box office collection Day 25: Adah Sharma’s film slows down, mints just Rs 2 crore</title>
-		<link>https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/</link>
-					<comments>https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Mon, 05 Jun 2023 05:43:20 +0000</pubDate>
-				<category><![CDATA[Bollywood]]></category>
-		<guid isPermaLink="false">https://github.iriss.org.uk/?p=11</guid>
+		</item>
 
-					<description><![CDATA[<p>Adah Sharma’s film The Kerala Story is seeing a drop in its box office collection now. However, it still has&#8230;</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/">The Kerala Story box office collection Day 25: Adah Sharma’s film slows down, mints just Rs 2 crore</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Adah Sharma’s film The Kerala Story is seeing a drop in its box office collection now. However, it still has the potential to cross the Rs 250-crore mark.</p>
+		<item>
+			<title>The Kerala Story box office collection Day 25: Adah Sharma’s film slows down, mints just Rs 2 crore</title>
+			<link>http://localhost/git/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/</link>
+			<pubDate>Mon, 05 Jun 2023 05:43:20 +0000</pubDate>
+						<dc:creator><![CDATA[user]]></dc:creator>			<guid isPermaLink="false">http://localhost/git/?p=11</guid>
+			<description><![CDATA[Adah Sharma’s film The Kerala Story is seeing a drop in its box office collection...]]></description>
+
+			<content:encoded><![CDATA[<figure><img src="http://localhost/git/wp-content/uploads/2023/06/adfdgdg.jpg" class="type:primaryImage" /></figure><p>Adah Sharma’s film The Kerala Story is seeing a drop in its box office collection now. However, it still has the potential to cross the Rs 250-crore mark.</p>
 <p>By Grace Cyril: Sudipto Sen’s directorial venture The Kerla Story recently crossed the Rs 200-crore mark at the box office. It has now slowed down in its collection. On Day 25, May 29, the film minted its lowest yet, that is, Rs 2.10 crore. Nevertheless, TKS has created quite a roar at the box office and is expected to cross the Rs 250-crore mark soon. The film delves into the serious subject of religious conversions, the ISIS, and chronicles around three women.</p>
 <p>THE KERALA STORY BOX OFFICE COLLECTION<br />
 Amid all the controversies surrounding The Kerala Story, the film released on May 5. Ever since, it has been doing incredibly well at the box office. On Day 18, the film even managed to cross the Rs 200-crore club. After crossing that milestone, TKS slowed down in its collection. As per the early trade estimates, on Day 25, the film minted Rs 2.10 crore at the box office. Hence, the total collection of The Kerala Story now stands at Rs 227.07 crore. It had an overall 10.30 per cent occupancy in Hindi on May 28.</p>
 <p>ABOUT THE KERALA STORY<br />
 The Kerala Story follows the story of a Hindu woman from Kerala, played by Adah Sharma. She is brainwashed to embrace Islam and sent to Syria, where she is forced to join the ISIS terrorist organisation. She is tortured there. The film is directed by Sudipto Sen and produced by Vipul Amrutlal Shah. The Kerala Story has been in the scanner ever since the trailer was released.</p>
-<p>The post <a rel="nofollow" href="https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/">The Kerala Story box office collection Day 25: Adah Sharma’s film slows down, mints just Rs 2 crore</a> appeared first on <a rel="nofollow" href="https://github.iriss.org.uk/">Boxoffice Updates</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/git/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/">The Kerala Story box office collection Day 25: Adah Sharma’s film slows down, mints just Rs 2 crore</a> appeared first on <a rel="nofollow" href="http://localhost/git">Github Boxoffice News Updates And More</a>.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>https://github.iriss.org.uk/the-kerala-story-box-office-collection-day-25-adah-sharmas-film-slows-down-mints-just-rs-2-crore/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
+		</item>
 	</channel>
 </rss>
+<!-- last GN Pub feeds fetch (not specifically this feed): has not fetched -->
